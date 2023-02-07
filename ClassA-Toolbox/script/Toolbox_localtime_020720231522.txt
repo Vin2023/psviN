@@ -1,0 +1,34 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20230207152228
+Username: G07\DelaCruzMar
+RunAs User: G07\DelaCruzMar
+Configuration Name: 
+Machine: G07PHXNWES06698 (Microsoft Windows NT 10.0.19044.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -Command Import-Module 'c:\Users\DelaCruzMar\.vscode\extensions\ms-vscode.powershell-2023.1.0\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2023.1.0' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\DelaCruzMar\.vscode\extensions\ms-vscode.powershell-2023.1.0\modules' -EnableConsoleRepl -StartupBanner "PowerShell Extension v2023.1.0
+Copyright (c) Microsoft Corporation.
+
+https://aka.ms/vscode-powershell
+Type 'help' to get help.
+" -LogLevel 'Normal' -LogPath 'c:\Users\DelaCruzMar\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\logs\1675668462-e74b3f5d-fd86-44ba-b4a4-20bd0cbc24d81675668460062\EditorServices.log' -SessionDetailsPath 'c:\Users\DelaCruzMar\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-7488-711556.json' -FeatureFlags @() 
+Process ID: 13552
+PSVersion: 5.1.19041.2364
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.2364
+BuildVersion: 10.0.19041.2364
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+
+
+------------------BEGIN ROOT-------------------------
+15:22[Log]: Form init success
+
+
+------------------END ROOT-------------------------
+**********************
+Windows PowerShell transcript end
+End time: 20230207152230
+**********************
